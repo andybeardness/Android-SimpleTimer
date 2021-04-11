@@ -17,5 +17,3 @@ It implements interface [TM](https://github.com/andybeardness/Android-SimpleTime
 ## Preview
 
 <img src="https://github.com/andybeardness/Android-SimpleTimer/blob/main/imgs/timer.gif" height="500">
-
-----
