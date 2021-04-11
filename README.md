@@ -1,2 +1,2 @@
-# Adnroid-SimpleTimer
+# Android-SimpleTimer
 Simple timer app
