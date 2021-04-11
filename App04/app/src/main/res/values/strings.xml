@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App04</string>
+    <string name="watch">00:00:00</string>
+    <string name="start">start</string>
+    <string name="reset">reset</string>
+    <string name="stop">stop</string>
+</resources>
